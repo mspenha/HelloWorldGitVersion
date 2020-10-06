@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2AwRqJ8TmQYy4LHIcoSGvXCEC+cxD6B8IXTo6uf4LySV/NqBdkZWuU06q4smvb7b52LdMMCBsXsqhHa8z3mow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msousadapenha\\source\\repos\\HelloWorldGitVersion\\HelloWorldGitVersion\\HelloWorldGitVersion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msousadapenha\\.nuget\\packages\\gitversion.commandline\\5.3.7\\gitversion.commandline.5.3.7.nupkg.sha512",
+    "C:\\Users\\msousadapenha\\.nuget\\packages\\gitversiontask\\5.3.7\\gitversiontask.5.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
