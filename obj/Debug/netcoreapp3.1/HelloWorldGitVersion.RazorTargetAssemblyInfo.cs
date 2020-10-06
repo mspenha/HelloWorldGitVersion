@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloWorldGitVersion")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.2.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.2.0+5.Branch.master.Sha.76bb738f406e8b2067f7ec69d70ea258c6b09172")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.2.0+7.Branch.master.Sha.01229ba2145d669eb3777c8d47d2165636698bad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloWorldGitVersion.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.2.0.0")]
 
