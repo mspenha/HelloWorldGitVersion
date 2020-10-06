@@ -33,3 +33,6 @@ C:\Users\msousadapenha\source\repos\HelloWorldGitVersion\HelloWorldGitVersion\ob
 C:\Users\msousadapenha\source\repos\HelloWorldGitVersion\HelloWorldGitVersion\obj\Debug\netcoreapp3.1\HelloWorldGitVersion.pdb
 C:\Users\msousadapenha\source\repos\HelloWorldGitVersion\HelloWorldGitVersion\obj\Debug\netcoreapp3.1\HelloWorldGitVersion.genruntimeconfig.cache
 C:\Users\msousadapenha\source\repos\HelloWorldGitVersion\HelloWorldGitVersion\obj\Debug\netcoreapp3.1\HelloWorldGitVersion.csproj.CopyComplete
+C:\Users\msousadapenha\source\repos\HelloWorldGitVersion\HelloWorldGitVersion\obj\Debug\netcoreapp3.1\GitVersionInformation.g.cs
+C:\Users\msousadapenha\source\repos\HelloWorldGitVersion\HelloWorldGitVersion\obj\Debug\netcoreapp3.1\HelloWorldGitVersion.csproj.CoreCompileInputs.cache
+C:\Users\msousadapenha\source\repos\HelloWorldGitVersion\HelloWorldGitVersion\obj\Debug\netcoreapp3.1\HelloWorldGitVersion.MvcApplicationPartsAssemblyInfo.cache
