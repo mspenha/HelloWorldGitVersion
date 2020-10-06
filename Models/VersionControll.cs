@@ -6,17 +6,17 @@ using System.Reflection;
 
 namespace HelloWorldGitVersion.Models
 {
-    public class SemanticVersion
+    public class VersionControll
     {
 
         public string VersionNumber { get; set; }
 
         Version version = Assembly.GetEntryAssembly().GetName().Version;
-        public string GetAssemblyVersion => version.Major + "." + version.Minor + "." + version.Build;
-        public SemanticVersion()
+        public string GetAssemblyVersion => version.Major + "." + version.Minor + "." + version.Build + version.Revision;
+        public VersionControll()
         {
 
-            VersionNumber = version.Major + "." + version.Minor + "." + version.Build;
+            VersionNumber = version.Major + "." + version.Minor + "." + version.Build + version.Revision;
         }
     }
 }

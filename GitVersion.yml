@@ -1,4 +1,4 @@
-﻿assembly-versioning-scheme: MajorMinorPatchTag
+assembly-versioning-scheme: MajorMinorPatchTag
 mode: ContinuousDelivery
 next-version: 0.1
 branches: {}
