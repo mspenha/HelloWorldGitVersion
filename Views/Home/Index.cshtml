@@ -7,9 +7,9 @@
         Bem Vindo!
     </h1>
     @{
-        SemanticVersion semanticVersion = ViewBag.SemanticVersion;
+        VersionControll versionControll = ViewBag.VersionControll;
 
-        <p>Version: @semanticVersion.VersionNumber </p>
+        <p>Version: @versionControll.VersionNumber </p>
 
     }
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>

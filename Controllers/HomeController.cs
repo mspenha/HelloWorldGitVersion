@@ -20,7 +20,7 @@ namespace HelloWorldGitVersion.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.SemanticVersion = new SemanticVersion();
+            ViewBag.VersionControll = new VersionControll();
             return View();
         }
 
